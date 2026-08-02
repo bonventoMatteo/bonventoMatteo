@@ -1,4 +1,14 @@
-## Hi, I'm Matteo 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=200&section=header&text=Matteo&fontSize=60&fontColor=ffffff&animation=fadeIn)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Self-taught+Developer;React+%2B+Next.js+%2B+Tailwind;Always+learning+something+new" alt="Typing SVG" />
+  </a>
+</p>
 
 Self-taught developer, passionate about turning ideas into functional digital products. I started coding on my own and now balance development work with my studies in Computer Science at UNIFEOB.
 
