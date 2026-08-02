@@ -1,6 +1,6 @@
-## Hi, I'm Matteo Bonvento 👋
+## Hi, I'm Matteo 👋
 
-Self-taught developer, passionate about turning ideas into functional digital products. I started coding on my own and now balance development work with my studies in Mobile Systems Development at UNIFEOB.
+Self-taught developer, passionate about turning ideas into functional digital products. I started coding on my own and now balance development work with my studies in Computer Science at UNIFEOB.
 
 Day to day, I work on building websites, web systems, and custom applications, always looking to learn and apply new technologies to my projects.
 
@@ -20,7 +20,7 @@ Day to day, I work on building websites, web systems, and custom applications, a
 <br>
 
 ### 🎓 Education
-Student of Mobile Systems Development — UNIFEOB
+Student of Computer Science — UNIFEOB
 
 ### 📍 Location
 Vargem Grande do Sul - SP, Brazil
