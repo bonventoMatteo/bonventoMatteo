@@ -1,26 +1,26 @@
-## Olá, sou o Matteo 👋
+## Hi, I'm Matteo Bonvento 👋
 
-Desenvolvedor autodidata, apaixonado por transformar ideias em produtos digitais funcionais. Comecei a programar por conta própria e hoje concilio o desenvolvimento com os estudos em Desenvolvimento de Sistemas Mobile na UNIFEOB.
+Self-taught developer, passionate about turning ideas into functional digital products. I started coding on my own and now balance development work with my studies in Mobile Systems Development at UNIFEOB.
 
-No dia a dia, trabalho no desenvolvimento de sites, sistemas web e aplicações sob medida, sempre buscando aprender e aplicar novas tecnologias nos projetos.
+Day to day, I work on building websites, web systems, and custom applications, always looking to learn and apply new technologies to my projects.
 
 <br>
 
-### 🚀 Stack & Experiências
+### 🚀 Stack & Experience
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mysql,supabase,postgres,java" />
 </p>
 
 **Front-end:** `React` `Next.js` `Tailwind CSS`
-**Banco de Dados:** `MySQL` `Supabase` `PostgreSQL`
-**Em aprendizado:** `Java`
-**Foco:** Infraestrutura, homelab, automação e websites/landing pages profissionais
+**Database:** `MySQL` `Supabase` `PostgreSQL`
+**Currently learning:** `Java`
+**Focus:** Infrastructure, homelab, automation, and professional websites/landing pages
 
 <br>
 
-### 🎓 Formação
-Estudante de Desenvolvimento de Sistemas Mobile — UNIFEOB
+### 🎓 Education
+Student of Mobile Systems Development — UNIFEOB
 
-### 📍 Localização
-Vargem Grande do Sul - SP, Brasil
+### 📍 Location
+Vargem Grande do Sul - SP, Brazil
